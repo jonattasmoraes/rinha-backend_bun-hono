@@ -1,6 +1,6 @@
 #Jônattas Moraes - Rinha de Backend - 2024/Q1
 
-Repositório do desafio [Rinha de Backend - 2024/Q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1). A rinha é um desafio focado no aprendizado mas sem deixar de lado a diversão, voce pode acompanhar o andamento dos desafios e acompanhar as informacoes pelo [Twitter](https://twitter.com/rinhadebackend).
+Repositório da [Rinha de Backend - 2024/Q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1). A rinha é um desafio focado no aprendizado mas sem deixar de lado a diversão, voce pode acompanhar o andamento dos desafios e as informacoes pelo [Twitter](https://twitter.com/rinhadebackend).
 
 ## Sobre o Desafio
 
@@ -39,7 +39,7 @@ Para executar a solução localmente, siga os passos abaixo:
 
 ## Detalhes
 
-<img width="1032" alt="Screenshot 2024-02-06 at 01 07 14" src="https://gist.github.com/assets/135550080/b35daa38-bc1f-460c-94a6-6d00e595e766">
+<img width="1032" alt="Screenshot 2024-02-06 at 01 07 14" src="Capture-2024-02-12-063520.png">
 
 ## Licença
 
