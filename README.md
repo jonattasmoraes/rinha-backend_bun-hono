@@ -39,7 +39,7 @@ Para executar a solução localmente, siga os passos abaixo:
 
 ## Detalhes
 
-<img width="1032" alt="Screenshot 2024-02-06 at 01 07 14" src="Capture-2024-02-12-063520.png">
+<img width="1032" alt="stats screen" src="https://github.com/jonattasmoraes/rinha-backend_bun-hono/blob/master/load-test/user-files/simulations/rinhabackend/Capture-2024-02-12-063520.png">
 
 ## Licença
 
