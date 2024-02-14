@@ -1,7 +1,7 @@
 import { Context, Hono } from "hono";
 import { pool } from "../database/clientePool";
 import { SELECT_TRANSACOES_QUERY } from "../database/queries";
-import { buscarCliente } from "../repositories/cliente.repository";
+import { buscarCliente } from "../services/clienteService";
 
 const extrato = new Hono();
 

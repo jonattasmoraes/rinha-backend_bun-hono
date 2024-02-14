@@ -5,7 +5,7 @@ import {
   buscarCliente,
   calcularNovoSaldo,
   inserirTransacao,
-} from "../repositories/cliente.repository";
+} from "../services/clienteService";
 
 const transacoes = new Hono();
 
